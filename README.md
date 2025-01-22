@@ -3,6 +3,7 @@
 ### Notice
 ## support robot: Go1
 ## OS : Ubuntu 20.04.5 LTS
+## ya ebal
 
 ### Dependencies
 * [Boost](https://github.com/Raviteja-T/Unitree-Go1-Voice-Control/blob/main/Dependencies/install%20Boost.pdf)
